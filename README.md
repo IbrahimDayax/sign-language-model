@@ -1,4 +1,4 @@
-**Sign Language Recognition Model**
+## **Sign Language Recognition Model**
 
 ### **Introduction**
 This project focuses on developing a **sign language recognition model** using deep learning techniques. It integrates **Mediapipe** for feature extraction and **LSTM-based neural networks** to classify gestures based on video input. The model aims to enhance accessibility by enabling real-time recognition of sign language.
